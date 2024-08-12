@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             val peso = edtPeso.text
             val altura = edtAltura.text
 
-            println("Tatiana ação do botão" + peso)
+            println("Tatiana ação do botão" + altura)
             
         }
     }
