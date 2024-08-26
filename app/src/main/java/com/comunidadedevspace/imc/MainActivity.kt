@@ -45,7 +45,9 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra (KEY_RESULT_IMC, resultado)
                 startActivity(intent)
 
-                println("Tatiana ação do botão" + resultado)
+                //EditText background
+                //Gradiente + título + ícone + descrição
+
             }
         }
     }
